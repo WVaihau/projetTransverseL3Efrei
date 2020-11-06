@@ -1,12 +1,14 @@
-# Projet - Programmation Web Avancé
+# Projet Transverse
 
-> Ce projet à pour but de réalisé un site web utilisant les différents outils vu en cours et TP ( [Voir le CDC](https://docs.google.com/document/d/1VhO3QO_8a0t3_-tG39zs7HO62An1NaNUpjT2xRqNvHg/edit) )
+> Ce projet à pour but de réalisé un site web 
 
 Membre de l'équipe :
   
   1. WILLIAMU Vaihau
   2. DIOUF Ndèye Khady Diagne
-  3. KAKE FOGUE Freddy Manoël
+  3. Ifê Oluwa Ulrich Anicet EWINSOU
+  4. Fabio Francesco Alessandro VINZIO
+  5. Koffi Anicet Williams KOUASSI
 
 ## Faire fonctionner le site
 
