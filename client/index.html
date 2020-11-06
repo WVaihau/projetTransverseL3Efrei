@@ -1,0 +1,34 @@
+<!doctype>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Project Name</title>
+    <!-- Load Vue followed by Vue Router -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/http-vue-loader/src/httpVueLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-router/dist/vue-router.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <!-- CSS LINK -->
+    <link rel="stylesheet" href="style.css">
+    <!-- FONT LINK -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Sansita+Swashed:wght@500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="spa">
+        <router-link to='/'>
+            Acceuil
+        </router-link>
+        <router-link to='/connexion'>
+            Se connecter
+        </router-link>
+
+        <router-view></router-view>
+    </div>
+    <script src="./main.js"></script>
+</body>
+
+
+</html>
